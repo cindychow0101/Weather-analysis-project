@@ -26,7 +26,7 @@ This project is designed to collect, store, and analyze weather data from multip
   - View graphical representations of temperature, humidity, and sea level pressure.
   - View statistical summaries (mean, max, min) of the weather data.
 
-  ![Main](/images/main menu.png)
+  ![Main](/images/main%20menu.png)
   ![GUI](/images/GUI.png)
 
 ### Menu Options
