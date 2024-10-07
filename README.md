@@ -26,8 +26,8 @@ This project collects, stores, and analyzes weather data from various cities usi
   - View graphical representations of temperature, humidity, and sea level pressure.
   - View statistical summaries (mean, max, min) of the weather data.
 
-  ![Main](/images/main%20menu.png)
-  ![GUI](/images/GUI.png)
+  ![Main](/images/main%20menu.png){width=250}
+  ![GUI](/images/GUI.png){width=250}
 
 ### Menu Options
 
