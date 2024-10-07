@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is designed to collect, store, and analyze weather data from multiple cities using the OpenWeatherMap API. It provides functionalities to retrieve current weather information, store it in a SQLite database, and visualize the data with graphs. The project also includes a simple GUI for graph selection.
+This project collects, stores, and analyzes weather data from various cities using the OpenWeatherMap API. It allows users to get current weather information, save it in a SQLite database, and display the data with graphs. There is also a user-friendly interface to choose the graphs users want to see.
 
 ## Features
 
